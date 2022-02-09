@@ -1,0 +1,7 @@
+{
+    "name":"Luis", 
+    "hobbies":[{"name":"cry"}, {"name":"trying not to cry"}, {"name":"coding"}],
+    "age": 18,
+    "adult": true
+
+}
